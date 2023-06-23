@@ -2,11 +2,13 @@
 
 
 
-### "Frontend developer from Argentina"
+### "Passionate about web development"
 
 
 
-![GitHub Org's stars](https://img.shields.io/github/followers/RodrigoDom01?style=social) <img src="https://komarev.com/ghpvc/?username=RodrigoDom01&label=Profile%20views&color=5366f9&style=flat"/>
+![GitHub Org's stars](https://img.shields.io/github/followers/RodrigoDom01?style=social) <img src="https://komarev.com/ghpvc/?username=RodrigoDom01&label=Profile%20views&color=5366f9&style=flat"/>  <a href="https://www.linkedin.com/in/rodrigo-fernando-dominguez/">
+        <img src="https://img.shields.io/badge/linkedIn-Rodrigo Dominguez-1DB954?style=flat-square&logo=linkedin&logoColor=white&color=blue" alt="LinkedIn" title="LinkedIn">
+</a>
 
 
 
@@ -14,9 +16,9 @@
 
 
 
-Fullstack developer, passionate about new technologies, continuous learning, and teamwork. Maintaining good communication and applying good practices for software development. 😉
+Fullstack developer, passionate about new technologies, continuous learning and teamwork. Always maintaining good communication and applying good practices for software development. 😉
 
-I am looking for opportunities in which I can demonstrate and expand my knowledge as a FullStack developer, backend or frontend.
+I look for opportunities where I can demonstrate and expand my knowledge as a FullStack developer.
 
 
 
