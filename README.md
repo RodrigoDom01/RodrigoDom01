@@ -1,15 +1,35 @@
-### Hi there 👋
+# Hello 
+
+Rodrigo Fernando Dominguez, 41 years old, Argentinian.
+
+Fullstack developer, passionate about new technologies, continuous learning, and teamwork. Maintaining good communication and applying good practices for software development. 😉
 
 
-**RodrigoDom01/RodrigoDom01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<hr />
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+💾 [Get my CV](./RodrigoDominguezCV.pdf)
+
+## ⚡ Technologies and Tools
+
+```json
+{
+    "backend": {
+        "basic": ["Java"],
+        "intermediate": ["NodeJS", "PHP"],
+        "frameworks": ["Laravel"]
+    },
+    "frontend": [
+        "HTML5",
+        "CSS3",
+        "Javascript",
+        "ReactJS",
+        "Bootstrap"
+    ],
+    "database": ["MySQL"],
+    "workflow": ["Git", "Gitflow"],
+    "design": ["Figma"],
+    "tools": ["Docker", "Laravel Sail"]
+}
+```
+
